@@ -1,0 +1,230 @@
+review,sentiment
+"Este produto é excelente, amei!",positivo
+"Péssima qualidade, não compraria novamente.",negativo
+"Funciona como esperado, mas nada de mais.",neutro
+"Simplesmente perfeito! Superou minhas expectativas.",positivo
+"Totalmente decepcionado com a entrega e o item.",negativo
+"Bom custo-benefício, cumpre o que promete.",positivo
+"Demorou muito para chegar e veio com defeito.",negativo
+"Produto mediano, não justifica o preço alto.",neutro
+"Adorei a cor e o design, muito bonito.",positivo
+"Não gostei do atendimento, demorou muito.",negativo
+"Funcionalidade básica, atende ao propósito.",neutro
+"Incrível! Melhor compra do ano.",positivo
+"Dinheiro jogado fora, arrependido.",negativo
+"Razoável, poderia ser melhor.",neutro
+"Muito satisfeito com a durabilidade.",positivo
+"Quebrou no primeiro dia de uso, lamentável.",negativo
+"Sem grandes surpresas, nem boas nem ruins.",neutro
+"Compraria de novo sem pensar duas vezes.",positivo
+"Experiência terrível, evitem!",negativo
+"Aceitável para o preço.",neutro
+"Recomendo fortemente, vale cada centavo.",positivo
+"Desperdício de dinheiro, não vale a pena.",negativo
+"Entrega rápida, mas o produto é comum.",neutro
+"A melhor compra que fiz este ano!",positivo
+"Horrível, não funciona como anunciado.",negativo
+"Cumpre o que promete, sem brilho.",neutro
+"Extremamente satisfeito com a performance.",positivo
+"Arrependimento total, falhou rapidamente.",negativo
+"Ok para o básico, mas não espere muito.",neutro
+"Qualidade impecável, fiquei impressionado.",positivo
+"Produto defeituoso, grande frustração.",negativo
+"Regular, nada de excepcional.",neutro
+"Superou minhas expectativas em todos os aspectos.",positivo
+"Não compraria novamente, péssima experiência.",negativo
+"Apresentável, mas a funcionalidade deixa a desejar.",neutro
+"Perfeito para minhas necessidades, adorei!",positivo
+"Enganação! Propaganda enganosa e má qualidade.",negativo
+"Usável, mas com algumas ressalvas.",neutro
+"Confortável e estiloso, recomendo!",positivo
+"Veio quebrado e o suporte é terrível.",negativo
+"Normal, sem surpresas.",neutro
+"Amei cada detalhe, simplesmente lindo.",positivo
+"Pior compra da minha vida, fuja!",negativo
+"Serve ao propósito, nada além.",neutro
+"Totalmente funcional e prático.",positivo
+"Problemas desde o primeiro dia, arrependi.",negativo
+"A média, nem bom nem ruim.",neutro
+"Excelente para o dia a dia, muito útil.",positivo
+"Não recomendo, experiência frustrante.",negativo
+"Ainda testando, mas parece ok.",neutro
+"Melhor custo-benefício que encontrei.",positivo
+"Qualidade muito abaixo do esperado.",negativo
+"Bom, mas com preço um pouco alto.",neutro
+"Adorei a facilidade de uso, muito intuitivo.",positivo
+"Chegou amassado e com arranhões.",negativo
+"Considerável, mas há opções melhores.",neutro
+"Estou feliz com a compra, ótimo produto.",positivo
+"Terrível, o pior que já usei.",negativo
+"Nem bom nem ruim, apenas existe.",neutro
+"Impressionado com a durabilidade.",positivo
+"Decepcionado, não durou nada.",negativo
+"Aceitável, poderia ser mais resistente.",neutro
+"Fantástico! Não poderia estar mais contente.",positivo
+"Dinheiro perdido, puro lixo.",negativo
+"Não é ruim, mas também não é bom.",neutro
+"Uma grata surpresa, superou o que imaginei.",positivo
+"Experiência traumatizante, horrível.",negativo
+"Pode ser útil para alguns, mas não para mim.",neutro
+"Indispensável no meu dia a dia, adoro!",positivo
+"Zero satisfação, total desapontamento.",negativo
+"Cumpre, mas não surpreende.",neutro
+"Fantástico, bateria dura horrores.",positivo
+"Pessimo! Sem suporte, sem solução.",negativo
+"Razoavelmente bom, atende na maioria dos casos.",neutro
+"Com certeza compraria novamente, top!",positivo
+"Não perca seu tempo, é uma furada.",negativo
+"A cor é legal, mas o material é frágil.",neutro
+"Amei o design e a funcionalidade.",positivo
+"Propaganda enganosa, não comprem!",negativo
+"Mediano para o preço que paguei.",neutro
+"Um achado, excelente em tudo.",positivo
+"Produto de má qualidade, quebrou fácil.",negativo
+"Funcional, mas o acabamento é ruim.",neutro
+"Surpreendente, muito melhor ao vivo.",positivo
+"Desastroso, só tive problemas.",negativo
+"Podia ser melhor, mas tá valendo.",neutro
+"Confiável e robusto, sem reclamações.",positivo
+"Totalmente inútil, joguei fora.",negativo
+"Ponto médio, nem vale a pena comentar.",neutro
+"Realmente me ajudou, muito eficiente.",positivo
+"Não entregou o prometido, decepção.",negativo
+"Pelo preço, é o que se espera.",neutro
+"Valeu a pena cada centavo, ótima aquisição.",positivo
+"Não gostei do material, parece fraco.",negativo
+"Cumpriu o básico, sem mais nem menos.",neutro
+"Meu novo item favorito, perfeito!",positivo
+"Não funciona, puro arrependimento.",negativo
+"Normal, sem grandes novidades.",neutro
+"Fiquei muito feliz com a durabilidade.",positivo
+"Quebrou com pouco uso, fragil.",negativo
+"Aceitável para uma emergência.",neutro
+"Compraria de novo mil vezes, incrível!",positivo
+"Pura porcaria, joguei no lixo.",negativo
+"Atendeu às expectativas, nada a reclamar.",positivo
+"Produto horrível, não recomendo de jeito nenhum.",negativo
+"Funciona, mas não é o ideal.",neutro
+"Excelente para presentear, todo mundo amou.",positivo
+"Experiência terrível com o vendedor e o item.",negativo
+"É um produto que existe, só isso.",neutro
+"Não vivo sem ele agora, essencial.",positivo
+"Dinheiro jogado fora, me arrependo muito.",negativo
+"É o que é, sem luxos.",neutro
+"Simplesmente apaixonado por este produto!",positivo
+"Falhou miseravelmente, não comprem.",negativo
+"Pode melhorar em alguns pontos.",neutro
+"Muito bom, entrega rápida e item de qualidade.",positivo
+"Não gostei, veio com peças faltando.",negativo
+"É bonito, mas não tão funcional.",neutro
+"Superou as expectativas, recomendo demais.",positivo
+"Uma fraude, nunca mais compro desta marca.",negativo
+"Funcional, mas o custo-benefício é questionável.",neutro
+"Adorei a experiência de compra e o produto.",positivo
+"Totalmente insatisfeito, perdi meu tempo.",negativo
+"Serve para o que se propõe, nem mais nem menos.",neutro
+"Absolutamente perfeito, sem palavras!",positivo
+"Produto de baixa qualidade, não durou nada.",negativo
+"Ok, poderia ser mais ergonômico.",neutro
+"Muito útil e prático, facilitou minha vida.",positivo
+"Não funciona, desperdício de dinheiro e tempo.",negativo
+"Não é ruim, mas esperava mais.",neutro
+"Maravilhoso, comprarei outro para presente.",positivo
+"Muito frágil, quebrou na primeira semana.",negativo
+"Regular, para uso ocasional.",neutro
+"Amei o resultado, muito eficaz.",positivo
+"Fui enganado, o produto não é como na foto.",negativo
+"Pode ser útil em certas situações.",neutro
+"Confiável e fácil de usar, muito bom.",positivo
+"Completamente decepcionado com a durabilidade.",negativo
+"Não é um produto ruim, mas também não é excelente.",neutro
+"Ideal para minhas necessidades, recomendo.",positivo
+"Detestei o atendimento e o produto.",negativo
+"Não me impressionou, é apenas funcional.",neutro
+"Estou realmente feliz com esta aquisição.",positivo
+"Uma pena, o produto veio com defeito.",negativo
+"É apenas mais um no mercado.",neutro
+"Ficou perfeito no ambiente, lindo.",positivo
+"Arrependimento: não resolveu meu problema.",negativo
+"Para o preço, é aceitável.",neutro
+"Ótimo acabamento e desempenho.",positivo
+"Ruim, a bateria acaba muito rápido.",negativo
+"Não é o pior, mas está longe de ser bom.",neutro
+"Um dos melhores produtos que já comprei.",positivo
+"Não vale a pena, muito caro para o que oferece.",negativo
+"Funciona, mas com ressalvas.",neutro
+"Excelente qualidade, superou as expectativas.",positivo
+"Péssimo custo-benefício, não entrega.",negativo
+"Meio termo, não me surpreendeu.",neutro
+"Adorei cada detalhe, sensacional.",positivo
+"Desapontado, o produto é muito básico.",negativo
+"Faz o trabalho, sem glamour.",neutro
+"Fácil de usar e muito eficiente.",positivo
+"Não compraria novamente, arrependi.",negativo
+"Aceitável, se o preço for muito baixo.",neutro
+"Altamente recomendado, produto de ponta.",positivo
+"Lamentável, não durou nem um mês.",negativo
+"É ok, mas não justifica a compra.",neutro
+"Conseguiu me surpreender positivamente.",positivo
+"Experiência negativa do início ao fim.",negativo
+"Funciona, mas a qualidade poderia ser melhor.",neutro
+"Melhor que o esperado, feliz com a compra.",positivo
+"Não gostei do material, parece barato.",negativo
+"Não fede nem cheira.",neutro
+"Muito prático e funcional, adorei!",positivo
+"Totalmente insatisfeito, não vale o investimento.",negativo
+"Atende ao básico, sem inovações.",neutro
+"Compra perfeita, sem arrependimentos.",positivo
+"Produto falho, não funciona como deveria.",negativo
+"Apenas razoável para o preço.",neutro
+"Adorei a versatilidade, muito útil.",positivo
+"Não é durável, já está apresentando problemas.",negativo
+"Neutro em todos os aspectos.",neutro
+"Recomendaria a amigos e familiares.",positivo
+"Uma porcaria, não comprem de jeito nenhum.",negativo
+"É um produto que cumpre o prometido, só isso.",neutro
+"Fiquei muito feliz com a qualidade.",positivo
+"Completamente insatisfeito com a compra.",negativo
+"É um produto que faz o que diz, sem mais.",neutro
+"Exatamente o que eu procurava, sensacional.",positivo
+"Não valeu o dinheiro, decepção total.",negativo
+"Bom, mas com alguns pontos a melhorar.",neutro
+"Incrível, nunca vi nada igual!",positivo
+"Quebrou muito rápido, estou furioso.",negativo
+"É um produto, ponto.",neutro
+"Satisfeito com a funcionalidade.",positivo
+"Uma falha total, péssimo.",negativo
+"Nada de mais, apenas cumpre o básico.",neutro
+"Muito bom, comprarei novamente.",positivo
+"Não entrega o que promete.",negativo
+"É aceitável, nada espetacular.",neutro
+"Melhor produto que já comprei.",positivo
+"Dinheiro jogado fora.",negativo
+"É o que se espera de um produto.",neutro
+"Amei, lindo e funcional.",positivo
+"Não recomendo, pura enganação.",negativo
+"Normal, nem bom nem ruim.",neutro
+"Vale a pena o investimento.",positivo
+"Arrependimento.",negativo
+"Satisfatório.",neutro
+"Perfeito para minhas necessidades.",positivo
+"Horrível, não funciona.",negativo
+"Pode melhorar.",neutro
+"Muito satisfeito.",positivo
+"Péssimo produto.",negativo
+"Ok.",neutro
+"Com certeza compraria de novo.",positivo
+"Não vale a pena.",negativo
+"Aceitável.",neutro
+"Fantástico.",positivo
+"Lixo.",negativo
+"Mediano.",neutro
+"Adorei.",positivo
+"Frustrante.",negativo
+"Apenas funcional.",neutro
+"Excelente.",positivo
+"Decepcionado.",negativo
+"Razoável.",neutro
+"Recomendo.",positivo
+"Inútil.",negativo
+"Sem surpresas.",neutro
